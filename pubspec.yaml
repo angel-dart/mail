@@ -1,0 +1,9 @@
+name: angel_mail
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+dependencies:
+  angel_framework: ^2.0.0
+  smtp: ^1.0.0
+dev_dependencies:
+  mailer: ^3.0.0
+  test: ^1.0.0
